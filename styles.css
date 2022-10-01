@@ -1,5 +1,5 @@
 .container {
-    max-width: 1080px;
+    /* max-width: 1080px; */
     display: grid;
     grid-template-columns: 75% 25%;
     grid-template-rows: 35% 57% 8%;
@@ -11,10 +11,6 @@
     margin: 5px;
     max-width: 300px;
     float: left;
-}
-
-body {
-    min-height: 100vh; 
 }
 
 header {
